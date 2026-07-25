@@ -26,5 +26,5 @@ The bot kept failing with a generic *"server connection error"*, with no clue wh
 ## Tech
 Vanilla JS · Web Speech API · PHP + cURL · Gemini API
 
-##Live Website to try
+## Live Website to try
 [Arabic Voice Chatbot](https://nasser.free.je/TestingAI)
